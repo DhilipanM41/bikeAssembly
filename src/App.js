@@ -13,7 +13,7 @@ function App() {
         <Route path='/home' element={<EmployeeComponent />}></Route>
       </Routes>
     </BrowserRouter>
-  );
+  ); 
 }
 
 export default App;
